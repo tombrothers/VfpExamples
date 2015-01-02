@@ -1,0 +1,1 @@
+﻿example for blog entry: http://randomdevnotes.com/2013/06/02/query-large-number-of-ids-without-getting-vfp-error-1812-statement-too-long

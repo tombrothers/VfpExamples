@@ -1,0 +1,1 @@
+﻿example for blog entry:  http://randomdevnotes.com/2013/06/02/bulk-insert-into-a-visual-foxpro-table-from-a-datatable

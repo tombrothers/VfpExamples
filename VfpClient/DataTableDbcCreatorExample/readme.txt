@@ -1,0 +1,1 @@
+﻿example for blog entry:  http://randomdevnotes.com/2013/06/02/creating-visual-foxpro-tables-and-database-container-from-datatables

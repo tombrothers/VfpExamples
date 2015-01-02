@@ -1,0 +1,1 @@
+﻿example for blog entry:  http://randomdevnotes.com/2013/06/02/using-named-parameters-when-accessing-visual-foxpro-data-from-net

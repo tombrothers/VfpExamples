@@ -1,0 +1,125 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_SolutionFiles", "_SolutionFiles", "{5F85DE58-D13C-47E9-BBD7-499D41AE7912}"
+	ProjectSection(SolutionItems) = preProject
+		App.config = App.config
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "VfpClient", "VfpClient", "{25F49C96-E2DD-4C6A-AC6D-9D0F4E40A672}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayXmlToCursorExample", "VfpClient\ArrayXmlToCursorExample\ArrayXmlToCursorExample.csproj", "{CFCEAAB6-4571-46A7-881B-2C7B0BF7226A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTableDbcCreatorExample", "VfpClient\DataTableDbcCreatorExample\DataTableDbcCreatorExample.csproj", "{CAE61098-256B-4FA0-A3FD-8972A693780E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NamedParameterExample", "VfpClient\NamedParameterExample\NamedParameterExample.csproj", "{DC4CA8AB-F59B-4071-9C19-E961000076CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VfpReaderExample", "VfpClient\VfpReaderExample\VfpReaderExample.csproj", "{A2944725-F4FD-45E1-85B7-31EE9472CA7D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EntityFramework", "EntityFramework", "{8E455EE3-AC62-48BE-841F-C1789CF5AD63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VfpReaderSchemaExample", "VfpClient\VfpReaderSchemaExample\VfpReaderSchemaExample.csproj", "{75A12783-15BC-4FC0-B891-C73E56A8A382}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BulkInsertExample", "VfpClient\BulkCopyExample\BulkInsertExample.csproj", "{93B13BD4-48D9-452C-95AE-9624AE38640E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EF4-5", "EF4-5", "{7A11C6D2-1294-45F5-8409-1DC40D664393}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcODataExample", "EntityFramework\EF4-5\MvcODataExample\MvcODataExample.csproj", "{FC5FFB53-A3CC-48F4-A7CF-4F175F535171}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcODataExampleFreeTables", "EntityFramework\EF4-5\MvcODataExampleFreeTables\MvcODataExampleFreeTables.csproj", "{F9F6A53E-F865-4982-97A4-325A3562F78E}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 9
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tombrothers.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = VfpClient\\ArrayXmlToCursorExample\\ArrayXmlToCursorExample.csproj
+		SccProjectTopLevelParentUniqueName1 = VfpNetExamples.sln
+		SccProjectName1 = VfpClient/ArrayXmlToCursorExample
+		SccLocalPath1 = VfpClient\\ArrayXmlToCursorExample
+		SccProjectUniqueName2 = VfpClient\\DataTableDbcCreatorExample\\DataTableDbcCreatorExample.csproj
+		SccProjectTopLevelParentUniqueName2 = VfpNetExamples.sln
+		SccProjectName2 = VfpClient/DataTableDbcCreatorExample
+		SccLocalPath2 = VfpClient\\DataTableDbcCreatorExample
+		SccProjectUniqueName3 = VfpClient\\NamedParameterExample\\NamedParameterExample.csproj
+		SccProjectTopLevelParentUniqueName3 = VfpNetExamples.sln
+		SccProjectName3 = VfpClient/NamedParameterExample
+		SccLocalPath3 = VfpClient\\NamedParameterExample
+		SccProjectUniqueName4 = VfpClient\\VfpReaderExample\\VfpReaderExample.csproj
+		SccProjectTopLevelParentUniqueName4 = VfpNetExamples.sln
+		SccProjectName4 = VfpClient/VfpReaderExample
+		SccLocalPath4 = VfpClient\\VfpReaderExample
+		SccProjectUniqueName5 = VfpClient\\VfpReaderSchemaExample\\VfpReaderSchemaExample.csproj
+		SccProjectTopLevelParentUniqueName5 = VfpNetExamples.sln
+		SccProjectName5 = VfpClient/VfpReaderSchemaExample
+		SccLocalPath5 = VfpClient\\VfpReaderSchemaExample
+		SccProjectUniqueName6 = VfpClient\\BulkCopyExample\\BulkInsertExample.csproj
+		SccProjectTopLevelParentUniqueName6 = VfpNetExamples.sln
+		SccProjectName6 = VfpClient/BulkCopyExample
+		SccLocalPath6 = VfpClient\\BulkCopyExample
+		SccProjectUniqueName7 = EntityFramework\\EF4-5\\MvcODataExample\\MvcODataExample.csproj
+		SccProjectTopLevelParentUniqueName7 = VfpNetExamples.sln
+		SccProjectName7 = EntityFramework/EF4-5/MvcODataExample
+		SccLocalPath7 = EntityFramework\\EF4-5\\MvcODataExample
+		SccProjectUniqueName8 = EntityFramework\\EF4-5\\MvcODataExampleFreeTables\\MvcODataExampleFreeTables.csproj
+		SccProjectTopLevelParentUniqueName8 = VfpNetExamples.sln
+		SccProjectName8 = EntityFramework/EF4-5/MvcODataExampleFreeTables
+		SccLocalPath8 = EntityFramework\\EF4-5\\MvcODataExampleFreeTables
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFCEAAB6-4571-46A7-881B-2C7B0BF7226A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFCEAAB6-4571-46A7-881B-2C7B0BF7226A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFCEAAB6-4571-46A7-881B-2C7B0BF7226A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFCEAAB6-4571-46A7-881B-2C7B0BF7226A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAE61098-256B-4FA0-A3FD-8972A693780E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAE61098-256B-4FA0-A3FD-8972A693780E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAE61098-256B-4FA0-A3FD-8972A693780E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAE61098-256B-4FA0-A3FD-8972A693780E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC4CA8AB-F59B-4071-9C19-E961000076CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC4CA8AB-F59B-4071-9C19-E961000076CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC4CA8AB-F59B-4071-9C19-E961000076CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC4CA8AB-F59B-4071-9C19-E961000076CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2944725-F4FD-45E1-85B7-31EE9472CA7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2944725-F4FD-45E1-85B7-31EE9472CA7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2944725-F4FD-45E1-85B7-31EE9472CA7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2944725-F4FD-45E1-85B7-31EE9472CA7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75A12783-15BC-4FC0-B891-C73E56A8A382}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75A12783-15BC-4FC0-B891-C73E56A8A382}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75A12783-15BC-4FC0-B891-C73E56A8A382}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75A12783-15BC-4FC0-B891-C73E56A8A382}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93B13BD4-48D9-452C-95AE-9624AE38640E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93B13BD4-48D9-452C-95AE-9624AE38640E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93B13BD4-48D9-452C-95AE-9624AE38640E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93B13BD4-48D9-452C-95AE-9624AE38640E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC5FFB53-A3CC-48F4-A7CF-4F175F535171}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC5FFB53-A3CC-48F4-A7CF-4F175F535171}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC5FFB53-A3CC-48F4-A7CF-4F175F535171}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC5FFB53-A3CC-48F4-A7CF-4F175F535171}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9F6A53E-F865-4982-97A4-325A3562F78E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9F6A53E-F865-4982-97A4-325A3562F78E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9F6A53E-F865-4982-97A4-325A3562F78E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9F6A53E-F865-4982-97A4-325A3562F78E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CFCEAAB6-4571-46A7-881B-2C7B0BF7226A} = {25F49C96-E2DD-4C6A-AC6D-9D0F4E40A672}
+		{CAE61098-256B-4FA0-A3FD-8972A693780E} = {25F49C96-E2DD-4C6A-AC6D-9D0F4E40A672}
+		{DC4CA8AB-F59B-4071-9C19-E961000076CA} = {25F49C96-E2DD-4C6A-AC6D-9D0F4E40A672}
+		{A2944725-F4FD-45E1-85B7-31EE9472CA7D} = {25F49C96-E2DD-4C6A-AC6D-9D0F4E40A672}
+		{75A12783-15BC-4FC0-B891-C73E56A8A382} = {25F49C96-E2DD-4C6A-AC6D-9D0F4E40A672}
+		{93B13BD4-48D9-452C-95AE-9624AE38640E} = {25F49C96-E2DD-4C6A-AC6D-9D0F4E40A672}
+		{7A11C6D2-1294-45F5-8409-1DC40D664393} = {8E455EE3-AC62-48BE-841F-C1789CF5AD63}
+		{FC5FFB53-A3CC-48F4-A7CF-4F175F535171} = {7A11C6D2-1294-45F5-8409-1DC40D664393}
+		{F9F6A53E-F865-4982-97A4-325A3562F78E} = {7A11C6D2-1294-45F5-8409-1DC40D664393}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPath = packages\Unity.2.1.505.2\lib\NET35
+	EndGlobalSection
+EndGlobal
